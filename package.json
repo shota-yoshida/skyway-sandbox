@@ -1,0 +1,19 @@
+{
+  "name": "skyway-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shota-yoshida/skyway-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shota-yoshida/skyway-sandbox/issues"
+  },
+  "homepage": "https://github.com/shota-yoshida/skyway-sandbox#readme"
+}
